@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shaheem
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning the MERN Stack
+- 🌱 I’m currently working on the MERN Stack
 - 💞️ I’m looking to collaborate on small web-based projects
 - 📫 Get in touch: muhammadshaheem77@gmail.com
 
