@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shaheem
-- 👀 An Associate Software Engineer at Streams Consultants.
+- 👀 A Software Engineer at FutureSofts.
 - 🌱 I’m currently working on the MERN Stack.
-- 📫 Get in touch: shaheem@streamsconsultants.com
+- 📫 Get in touch: shaheem@futuresofts.co.uk
 
 <!---
 Shaheem707/Shaheem707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
